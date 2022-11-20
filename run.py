@@ -1,4 +1,4 @@
-from project_tracker import main
+from project_tracker_cli import main
 
 if __name__ == '__main__':
     main()
